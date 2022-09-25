@@ -1,3 +1,5 @@
 studyvenv
 .vscode
 __pycache__
+*.csv
+*.xlsx
