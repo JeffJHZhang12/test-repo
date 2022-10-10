@@ -37,7 +37,7 @@ class Icon(QWidget):
         self.btn2.addItem("text3", "v3")
         self.btn2.addItem("text4", "v4")
         self.btn2.addItem("text5", "v5")
-        # self.btn2.setCurrentIndex = -1
+        self.btn2.setCurrentIndex(-1)
         self.btn2.currentIndexChanged.connect(self.selectionchange)
 
         # self.btn2.setChecked(1)

@@ -3,3 +3,5 @@ studyvenv
 __pycache__
 *.csv
 *.xlsx
+build
+dist
