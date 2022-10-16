@@ -34,6 +34,7 @@ class winform(QWidget):
         layout.addWidget(btn2)
         # layout.addStretch(0)
         layout.addWidget(btn3)
+
         # layout.addStretch(1)
         # layout.addWidget(QPushButton("1"),0, Qt.AlignmentFlag.AlignTop)
         # layout.addWidget(
