@@ -1,9 +1,9 @@
 echo off
 
-rem ╫╚всд©б╪ QtApp об╣д.uiнд╪Ч╦╢жф╣╫╣╠г╟д©б╪обё╛╡╒гр╠ЮрК
+rem Е╟├Е╜░Г⌡╝Е╫∙ QtApp Д╦▀Г └.uiФ√┤Д╩╤Е╓█Е┬╤Е┬╟Е╫⌠Е┴█Г⌡╝Е╫∙Д╦▀О╪▄Е╧╤Д╦■Г╪√Х╞▒
 copy .\QtApp\Dialog.ui  Dialog.ui
 pyuic5 -o ui_Dialog.py  Dialog.ui
 
-rem ╠ЮрК╡╒╦╢жфвйт╢нд╪Ч
+rem Г╪√Х╞▒Е╧╤Е╓█Е┬╤Х╣└Ф╨░Ф√┤Д╩╤
 pyrcc5 .\QtApp\res.qrc -o res_rc.py
 
