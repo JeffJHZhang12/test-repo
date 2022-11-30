@@ -1,0 +1,2 @@
+https://www.bilibili.com/video/BV14F411w7mW/?spm_id_from=333.880.my_history.page.click&vd_source=a99ef35d72540bac907e8c00b7a6bb1e
+从第15分钟看 讲如何由曲线生成墙和窗户，用到了2d到3d变换
